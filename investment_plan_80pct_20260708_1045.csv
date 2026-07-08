@@ -1,0 +1,6 @@
+Rank,Stock,Symbol,Confidence %,Current Price,Investment Action,Risk Level,Buy Date,Exit Date,Holding Days,Invest Amount,Shares,Entry Price,Stop Loss,Target,Expected Return,ROI %,RSI,ADX,Bullish Signals,Reason
+1,HCL Technologies Limited,HCLTECH,85,₹1145.60,ACCUMULATE,MEDIUM,10-Jul-2026,30-Jul-2026,20,"₹11,456.00",10,₹1057.24,₹1045.45,₹1472.90,"₹3,272.96",28.57%,47.4,25.3,7/9,Bullish MACD crossover with uptrend - Buy in parts
+2,Divi's Laboratories Limited,DIVISLAB,85,₹6755.00,ACCUMULATE,MEDIUM,10-Jul-2026,30-Jul-2026,20,"₹6,755.00",1,₹6511.52,₹6547.26,₹7295.40,₹540.40,8.00%,49.2,30.6,8/9,Bullish MACD crossover with uptrend - Buy in parts
+3,Mahindra & Mahindra Limited,M&M,85,₹3102.50,ACCUMULATE,MEDIUM,10-Jul-2026,30-Jul-2026,20,"₹9,307.50",3,₹2911.88,₹2913.31,₹3410.82,₹924.96,9.94%,49.9,8.3,7/9,Bullish MACD crossover with uptrend - Buy in parts
+4,DLF Limited,DLF,85,₹633.00,ACCUMULATE,MEDIUM,10-Jul-2026,30-Jul-2026,20,"₹10,761.00",17,₹570.94,₹563.83,₹683.64,₹860.88,8.00%,47.8,43.0,9/9,Bullish MACD crossover with uptrend - Buy in parts
+5,Mphasis Limited,MPHASIS,85,₹2241.90,ACCUMULATE,MEDIUM,10-Jul-2026,30-Jul-2026,20,"₹8,967.60",4,₹2101.88,₹2096.70,₹2539.43,"₹1,190.14",13.27%,47.1,32.0,9/9,Bullish MACD crossover with uptrend - Buy in parts
